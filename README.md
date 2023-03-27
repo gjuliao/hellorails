@@ -22,7 +22,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Curriculum <a name="about-project"></a>
+# 📖 Hello Rails <a name="about-project"></a>
 
 ** Hello Rails ** Is a Ruby on Rails project for practicing purposes. **
 
@@ -30,7 +30,7 @@
 
 
   <ul>
-    <li><a href="https://www.ruby-lang.org/en/documentation/">Ruby</a></li>
+    <li><a href="https://www.ruby-lang.org/en/documentation/">Ruby on Rails</a></li>
   </ul>
 
 
